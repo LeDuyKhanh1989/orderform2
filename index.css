@@ -1,8 +1,11 @@
-#label{
-    font-size: 50px;
-    font-weight: 900;
+
+form{
+    font-family: "Lucida Grande";
 }
-#lable1{
-    font-size: 30PX;
-    color: red;
+label{
+    font-size: 20px;
+}
+.title{
+    color: rgb(13, 13, 13)
+    font-size: 30px;
 }
